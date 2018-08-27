@@ -8,3 +8,5 @@ dependencies:
   intl: any
 dev_dependencies:
   browser: any
+environment:
+  sdk: '>=2.0.0 <3.0.0'
